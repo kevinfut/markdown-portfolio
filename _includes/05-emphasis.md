@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**_whaat_ is this** <p>
+*is this* <p>
+**whaaat** :tada: :car:
