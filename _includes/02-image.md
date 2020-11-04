@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a airplane](https://miro.medium.com/max/700/0*kp8rJzqHjagMj22J)
